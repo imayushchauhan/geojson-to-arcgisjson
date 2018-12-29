@@ -1,1 +1,1 @@
-# convert-countries-geojson-to-arcgisjson
+# geojson-to-arcgisjson
